@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/svyatoslav-teterin-816312261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="svyatoslav-teterin-816312261" height="30" width="40" /></a>
-<a href="https://t.me/SvyatoslavTeterinDev" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/63/424/png-clipart-computer-icons-scalable-graphics-telegram-logo-blue-angle.png" alt="svyatoslav-teterin-816312261" height="30" width="40" /></a>
+<a href="https://t.me/SvyatoslavTeterinDev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="svyatoslav-teterin-816312261" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
