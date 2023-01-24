@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **svyatoslav.teterin.dev@gmail.com**
 
+- 📫 or here **https://t.me/SvyatoslavTeterinDev**
+
 - ⚡ Fun fact **I love sweets and I'm very funny**
 
 <h3 align="left">Connect with me:</h3>
